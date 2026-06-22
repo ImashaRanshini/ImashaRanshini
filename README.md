@@ -26,7 +26,7 @@ Academic Projects
 
 Connect with me
 LinkedIn:
-[(your LinkedIn)](https://www.linkedin.com/in/imasha-de-silva-19a5a2321)
+https://www.linkedin.com/in/imasha-de-silva-19a5a2321
 
 Email:
 imasharanshini04@gmail.com
